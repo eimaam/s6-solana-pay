@@ -60,7 +60,7 @@ const Home = () => {
             data-aos="fade-right"
             className="text-white text-5xl md:text-7xl font-extrabold leading-tight mb-4"
           >
-            Tech Flare Store
+            Tech Flair Store
           </h1>
           <h1
             data-aos="zoom-in"
